@@ -3,7 +3,7 @@ spring.application.name=pz1_sokol
 # Налаштування відправки пошти через особистий Gmail
 spring.mail.host=smtp.gmail.com
 spring.mail.port=465
-spring.mail.username=bogdanchik0536@gmail.com
+spring.mail.username=bogbanchik0536@gmail.com
 spring.mail.password=riemlmuwvqpladnt
 spring.mail.properties.mail.smtp.auth=true
 spring.mail.properties.mail.smtp.ssl.enable=true
